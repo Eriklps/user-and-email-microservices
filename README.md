@@ -3,7 +3,7 @@
 User-microservice and email-microservice, implemented asynchronous communication between them using messaging 
 with rabbitMQ, implement sending emails with SMTP from Gmail.
 
-![Screenshot_8.png](..%2F..%2F..%2FUsers%2FUser%2FDownloads%2FScreenshot_8.png)
+![Screenshot_8.png](/flow-overview.png)
 
 ## Technologies and tools:
 
