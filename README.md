@@ -12,7 +12,7 @@ with rabbitMQ, implement sending emails with SMTP from Gmail.
 - [Maven](https://docs.spring.io/spring-boot/docs/current/maven-plugin/reference/htmlsingle/)
 - [Spring Web MVC](https://docs.spring.io/spring-framework/reference/web/webmvc.html)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
-- [PgAdmin (Postgres)](https://www.postgresql.org/)
+- [PgAdmin (PostgreSQL)](https://www.postgresql.org/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 
 Project implemented for study purposes, following the instructions in this [video](https://www.youtube.com/watch?v=ZnECi2gatMs).
